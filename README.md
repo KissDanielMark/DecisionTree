@@ -1,0 +1,2 @@
+# DecisionTree
+Adatbányászati technikák HF
